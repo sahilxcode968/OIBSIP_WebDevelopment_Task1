@@ -25,4 +25,4 @@ A responsive landing page showcasing:
 
 ## 👤 Author:
 - **Name**: Sahil Sahoo
-- **Email**: your.email@example.com
+- **Email**: sahilsahoo519@gmail.com
